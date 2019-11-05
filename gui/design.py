@@ -2,7 +2,6 @@ from PyQt5 import QtCore, QtGui, QtWidgets
 from PyQt5.QtGui import QIcon
 
 
-
 class Ui_MainWindow(object):
     def setupUi(self, main_window):
         main_window.setObjectName("MainWindow")
