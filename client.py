@@ -1,7 +1,6 @@
 import sys
 from PyQt5 import QtWidgets
 from gui import design
-import winsound
 
 from twisted.internet.protocol import ClientFactory
 from twisted.protocols.basic import LineOnlyReceiver
